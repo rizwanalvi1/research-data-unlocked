@@ -1,5 +1,7 @@
 Link: https://data.humdata.org/dataset/cod-ab-pak
 
+https://data.humdata.org/dataset/a64d1ff2-7158-48c7-887d-6af69ce21906/resource/a703c219-b5a0-43e6-9463-08bace6fbdd9/download/pak_adm_wfp_20220909_shp.zip
+
 
 Pakistan administrative level 0-3 boundaries (COD-AB) dataset.
 
